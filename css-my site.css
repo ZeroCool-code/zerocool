@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h1 {
+    margin: 0;
+    width: 10%;
+    margin: 0 auto 0 auto;
+    font-family: 'Sacramento', cursive;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+/****************************CLASS TAGS********************/
+
+.top {
+    background-color: #cff1ef;
+}
+
+.middle {}
+
+.bottom {}
+
+.cloud_bottom {
+    position: relative;
+    right: 100px;
+    bottom: 200px;
+    left: 150px;
+    bottom: 300px;
+}
+
+.gg {
+    position: relative;
+    left: 200px;
+}
